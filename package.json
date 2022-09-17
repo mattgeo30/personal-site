@@ -1,0 +1,15 @@
+{
+  "name": "personal",
+  "packageManager": "yarn@3.2.3",
+  "private": true,
+  "workspaces": [
+    "mattgeo"
+  ],
+  "dependencies": {
+    "@nrwl/nx": "^7.8.7",
+    "@parcel/watcher": "^2.0.5"
+  },
+  "devDependencies": {
+    "@nrwl/express": "^14.7.5"
+  }
+}
